@@ -1,0 +1,18 @@
+{
+    "editor.fontFamily": "Ubuntu Mono",
+    "http.proxy": undefined,
+    "https.proxy": undefined,
+    "javascript.validate.lint.missingSemicolon": "warning",
+    "javascript.validate.lint.functionsInsideLoops": "warning",
+    "editor.tabSize": 4,
+    "editor.insertSpaces": true,
+    "editor.wrappingColumn": 0,
+    "editor.trimAutoWhitespace": false,
+    "files.exclude": {
+        "**/.git": true,
+        "**/.DS_Store": true,
+        "**/.svn": true
+    },
+    "projectManager.codePath": "C:\\Program Files (x86)\\Microsoft VS Code\\bin\\code.cmd",
+    "projectManager.openInNewWindow": false
+}
