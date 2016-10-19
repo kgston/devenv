@@ -1,0 +1,3 @@
+Text colour: #859900
+Bold colour: #CB4B16
+Background colour: #002B36
