@@ -35,10 +35,6 @@
     "markdown.preview.fontFamily": "'Ubuntu Regular', Segoe WPC', 'Segoe UI', 'SFUIText-Light', 'HelveticaNeue-Light'",
     "vsicons.projectDetection.disableDetect": true,
     "window.zoomLevel": 0,
-    "gitlab-mr.accessTokens": {
-        "https://m2-mgmt-gitlab01.sbisec.int": "KN9ZqhNUsxraxfiBrECc"
-    },
-    "gitlab-mr.targetBranch": "develop",
     "workbench.iconTheme": "vscode-icons",
     "workbench.colorTheme": "Railgun Chroma"
 }
