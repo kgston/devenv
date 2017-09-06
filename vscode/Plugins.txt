@@ -1,13 +1,20 @@
 #Plugins
 html snippets
+EditorConfig for VSCode
+eslint
+git blame
+html snippets
+java properties
+vscode icons
+path intellisense
+RPM Spec
 can i use
 project manager
 railgun theme
 markdownlint
-eslint
 stencil
-spelling and grammer checker
-guides
+spellchecker
+xmltools
 
 #Theme
 railgun
