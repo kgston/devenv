@@ -1,1 +1,1 @@
-export PS1="\[$(tput bold)\]\u\[$(tput sgr0)\]@\[$(tput bold)\]\h\[$(tput sgr0)\] \[$(tput bold)\][\W]\[$(tput sgr0)\] \[$(tput bold)\]\\$\[$(tput sgr0)\] \[$(tput sgr0)\]"
+export PS1="\[\e[36m\]\d\[\e[m\] \[\e[36m\]\t\[\e[m\] \[\e[33m\]\u\[\e[m\]\[\e[33m\]@\[\e[m\]\[\e[33m\]\h\[\e[m\] \[\e[36m\][\[\e[m\]\[\e[36m\]\W\[\e[m\]\[\e[36m\]:\[\e[m\]\[\e[36m\]\\$\[\e[m\]\[\e[36m\]]\[\e[m\] "
